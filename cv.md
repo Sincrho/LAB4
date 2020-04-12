@@ -1,5 +1,5 @@
 Santiago Lopez
 Edad :22
-Estudios:
+Estudios: ...
 -Secundario Completo
--Ingenieria Informatica (tercer año completo) abc
+-Ingenieria Informatica (tercer año completo) 
